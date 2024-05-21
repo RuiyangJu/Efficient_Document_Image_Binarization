@@ -1,0 +1,7 @@
+scipy
+opencv-python
+matplotlib
+segmentation-models-pytorch
+pytesseract
+numpy
+pywavelets
