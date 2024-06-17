@@ -1,4 +1,4 @@
-# Efficient-Document-Binarization
+# Efficient generative adversarial networks for document image binarization based on discrete wavelet transform
 
 ## Datasets
 ### The number of Image:
