@@ -1,5 +1,7 @@
 # Efficient generative adversarial networks for document image binarization based on discrete wavelet transform
 
+> [Efficient generative adversarial networks for document image binarization based on discrete wavelet transform](https://arxiv.org/abs/)
+
 ## Datasets
 ### The number of Image:
 * Our Training Set (143) includes:
