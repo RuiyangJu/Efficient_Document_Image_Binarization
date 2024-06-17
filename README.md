@@ -39,7 +39,7 @@ If you find our paper useful in your research, please consider citing:
   python train_stage2_unet.py --epochs 10 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 128
   python predict_for_stage3_unet.py --base_model_name tu-efficientnetv2_rw_s --lambda_loss 30
   python train_stage3_unet.py --epochs 10 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 128
-  python train_stage3_unet_resize.py --epochs 150 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 256
+  python train_stage3_unet_resize.py --epochs 150 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
 ```
 ### Test
 ```
@@ -55,7 +55,7 @@ If you find our paper useful in your research, please consider citing:
   python train_stage2.py --epochs 10 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 128
   python predict_for_stage3.py --base_model_name tu-efficientnetv2_rw_s --lambda_loss 30
   python train_stage3.py --epochs 10 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 128
-  python train_stage3_resize.py --epochs 150 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 256
+  python train_stage3_resize.py --epochs 150 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
 ```
 
 ### Test
