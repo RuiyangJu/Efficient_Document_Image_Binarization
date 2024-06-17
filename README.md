@@ -8,7 +8,11 @@
 
 ## Citation
 If you find our paper useful in your research, please consider citing:
-  
+    
+## Method
+<p align="center">
+  <img src="readme_fig/fig_network.jpg" width="640" title="network">
+</p>
     
 ## Datasets
 * Our Training Set (143) includes:
