@@ -13,7 +13,7 @@ If you find our paper useful in your research, please consider citing:
 <p align="center">
   <img src="readme_fig/fig_network.jpg" width="640" title="network">
 </p>
-    
+
 ## Datasets
 * Our Training Set (143) includes:
 
@@ -22,3 +22,10 @@ If you find our paper useful in your research, please consider citing:
 * Our Testing Set (102) includes:
 
   [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) (16), [DIBCO 2013](http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/) (16), [H-DIBCO 2014](http://users.iit.demokritos.gr/~bgat/HDIBCO2014/benchmark/) (10), [H-DIBCO 2016](http://vc.ee.duth.gr/h-dibco2016/benchmark/) (10), [DIBCO 2017](http://vc.ee.duth.gr/dibco2017/benchmark/) (20), [H-DIBCO 2018](https://vc.ee.duth.gr/h-dibco2018/benchmark/) (10), [DIBCO 2019](https://vc.ee.duth.gr/dibco2019/benchmark/) (20).
+
+## Environment
+* Python >= 3.6 (Pytorch)
+* NVIDIA GPU + CUDA CuDNN
+```
+    pip install -r requirements.txt
+```
