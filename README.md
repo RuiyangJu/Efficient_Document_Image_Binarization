@@ -33,6 +33,7 @@ If you find our paper useful in your research, please consider citing:
 ## UNet & EfficientNetV2-S
 ### Train
 ```
+  cd unet_effnetv2
   python image_to_256.py
   python image_to_512.py
   python train_stage2_unet.py --epochs 10 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 128
@@ -48,7 +49,7 @@ If you find our paper useful in your research, please consider citing:
 ## UNet++ & EfficientNetV2-S
 ### Train
 ```
-  cd unet_effnetv2
+  cd unetplusplus_effnetv2
   python image_to_256.py
   python image_to_512.py
   python train_stage2.py --epochs 10 --lambda_loss 30 --base_model_name tu-efficientnetv2_rw_s --batch_size 128
