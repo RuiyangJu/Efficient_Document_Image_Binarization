@@ -3,7 +3,7 @@
 > [Efficient generative adversarial networks for document image binarization based on discrete wavelet transform](https://arxiv.org/abs/)
 
 <p align="center">
-  <img src="readme_fig/fig_intro.jpg" width="640" title="intro">
+  <img src="readme_fig/fig_intro.jpg" width="1024" title="intro">
 </p>
 
 ## Citation
