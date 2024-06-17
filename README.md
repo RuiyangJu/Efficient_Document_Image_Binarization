@@ -1,4 +1,4 @@
-# Efficient generative adversarial networks for document image binarization based on discrete wavelet transform
+# Efficient document image binarization
 
 > [Efficient generative adversarial networks for document image binarization based on discrete wavelet transform](https://arxiv.org/abs/)
 
