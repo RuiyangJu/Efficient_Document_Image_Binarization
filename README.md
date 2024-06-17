@@ -14,7 +14,7 @@ If you find our paper useful in your research, please consider citing:
 ### The number of Image:
 * Our Training Set (143) includes:
 
-  DIBCO 2009 (10), H-DIBCO 2010 (10), H-DIBCO 2012 (14), Bickley Diary (7), PHIBD (15), SMADI (87).
+  [DIBCO 2009](http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/) (10), H-DIBCO 2010 (10), H-DIBCO 2012 (14), Bickley Diary (7), PHIBD (15), SMADI (87).
 * Our Testing Set (102) includes:
 
   DIBCO 2011 (16), DIBCO 2013 (16), H-DIBCO 2014 (10), H-DIBCO 2016 (10), DIBCO 2017 (20), H-DIBCO 2018 (10), DIBCO 2019 (20).
