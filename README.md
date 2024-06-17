@@ -2,6 +2,11 @@
 
 > [Efficient generative adversarial networks for document image binarization based on discrete wavelet transform](https://arxiv.org/abs/)
 
+<p align="center">
+  <img src="readme_fig/figure_stage_1.jpg" width="480" title="Stage-1">
+  <img src="readme_fig/figure_stage_1.jpg" width="480" title="Stage-1">
+</p>
+
 ## Datasets
 ### The number of Image:
 * Our Training Set (143) includes:
