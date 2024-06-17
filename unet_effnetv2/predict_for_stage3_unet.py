@@ -15,14 +15,13 @@ parser.add_argument('--image_train_dir', type=str, default='./Ours_resize_256/Tr
 parser.add_argument('--mask_train_dir', type=str, default='./Ours_resize_256/Trainset/mask/', help='patched mask train dir')
 parser.add_argument('--image_test_dir', type=str, default='../Testset/image/', help='original image test dir')
 parser.add_argument('--mask_test_dir', type=str, default='../Testset/mask/', help='original mask test dir')
+parser.add_argument('--original_dir', type=str, default='../Trainset/image/', help='original image dir')
 
 parser.add_argument('--base_model_name', type=str, default='tu-efficientnetv2_rw_s', help='base model name')
 parser.add_argument('--lambda_loss', type=float, default=30.0, help='bce & dice weight')
 parser.add_argument('--encoder_weights', type=str, default='imagenet', help='none or imagenet')
 parser.add_argument('--generator_lr', type=float, default=2e-4, help='generator learning rate')
 parser.add_argument('--threshold', type=float, default=0.30, help='threshold for bgr mask')
-
-parser.add_argument('--original_dir', type=str, default='../Trainset/image/', help='original image dir')
 
 opt = parser.parse_args()
 
