@@ -9,7 +9,12 @@
 ## Citation
 If you find our paper useful in your research, please consider citing:
 ```
-  Coming Soon!
+  @article{ju2024efficient,
+    title={Efficient GANs for Document Image Binarization Based on DWT and Normalization},
+    author={Ju, Rui-Yang and Wong, KokSheik and Chiang, Jen-Shiun},
+    journal={arXiv preprint arXiv:2407.04231},
+    year={2024}
+  }
 ```
     
 ## Method
