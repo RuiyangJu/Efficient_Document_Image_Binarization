@@ -306,7 +306,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--gpu", type=str, default='0', help="GPU number")
     parser.add_argument("--epochs", type=int, default=10, help="epochs")
-    parser.add_argument('--lambda_loss', type=float, default=30.0, help='bce & dice weight')
+    parser.add_argument('--lambda_loss', type=float, default=25.0, help='bce & dice weight')
     parser.add_argument('--base_model_name', type=str, default='tu-efficientnetv2_rw_s', help='base model name')
     parser.add_argument('--encoder_weights', type=str, default='imagenet', help='pretrained encoder imagenet')
     parser.add_argument('--threshold', type=float, default=0.30, help='threshold for bgr mask')
