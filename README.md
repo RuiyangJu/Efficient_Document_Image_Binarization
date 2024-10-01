@@ -37,7 +37,7 @@ If you find our paper useful in your research, please consider citing:
 * NVIDIA GPU + CUDA CuDNN
 * Python >= 3.6 (Pytorch)
 ```
-  pip install -r requirements.txt
+  conda env create -f environment.yaml
 ```
 
 ## UNet & EfficientNetV2-S
