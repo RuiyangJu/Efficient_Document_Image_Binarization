@@ -51,7 +51,7 @@ If you find our paper useful in your research, please consider citing:
   python train_stage3_unet.py --epochs 10 --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
   python train_stage3_unet_resize.py --epochs 150 --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 16
 ```
-### Test
+### Test (Need numpy==1.20.0)
 ```
   python eval_stage3_all_unet.py --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
 ```
@@ -68,7 +68,7 @@ If you find our paper useful in your research, please consider citing:
   python train_stage3_resize.py --epochs 150 --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 16
 ```
 
-### Test
+### Test (Need numpy==1.20.0)
 ```
   python eval_stage3_all.py --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
 ```
