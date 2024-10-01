@@ -35,10 +35,10 @@ If you find our paper useful in your research, please consider citing:
 
 ## Environment
 * NVIDIA GPU + CUDA CuDNN
-* Python >= 3.6 (Pytorch)
-```
-  conda env create -f environment.yaml
-```
+* Creat a new Conda environment:
+  ```
+    conda env create -f environment.yaml
+  ```
 
 ## UNet & EfficientNetV2-S
 ### Train
