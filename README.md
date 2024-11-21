@@ -19,12 +19,12 @@ If you find our paper useful in your research, please consider citing:
     
 ## Method
 <p align="center">
-  <img src="readme_fig/fig_network.jpg" width="640" title="network">
+  <img src="readme_fig/fig_network.jpg" width="1024" title="network">
 </p>
 
 ## Result: DIBCO 2019-009
 <p align="center">
-  <img src="readme_fig/fig_result.jpg" width="640" title="network">
+  <img src="readme_fig/fig_result.jpg" width="1024" title="network">
 </p>
 
 ## Datasets
