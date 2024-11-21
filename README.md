@@ -22,6 +22,11 @@ If you find our paper useful in your research, please consider citing:
   <img src="readme_fig/fig_network.jpg" width="640" title="network">
 </p>
 
+## Result: DIBCO 2019-009
+<p align="center">
+  <img src="readme_fig/fig_result.jpg" width="640" title="network">
+</p>
+
 ## Datasets
 * Our training set (143) includes:
 
