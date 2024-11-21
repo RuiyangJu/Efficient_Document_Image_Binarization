@@ -22,11 +22,6 @@ If you find our paper useful in your research, please consider citing:
   <img src="readme_fig/fig_network.jpg" width="1024" title="network">
 </p>
 
-## Result: DIBCO 2019-009
-<p align="center">
-  <img src="readme_fig/fig_result.jpg" width="1024" title="network">
-</p>
-
 ## Datasets
 * Our training set (143) includes:
 
@@ -37,6 +32,11 @@ If you find our paper useful in your research, please consider citing:
   [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) (16), [DIBCO 2013](http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/) (16), [H-DIBCO 2014](http://users.iit.demokritos.gr/~bgat/HDIBCO2014/benchmark/) (10), [H-DIBCO 2016](http://vc.ee.duth.gr/h-dibco2016/benchmark/) (10), [DIBCO 2017](http://vc.ee.duth.gr/dibco2017/benchmark/) (20), [H-DIBCO 2018](https://vc.ee.duth.gr/h-dibco2018/benchmark/) (10), [DIBCO 2019](https://vc.ee.duth.gr/dibco2019/benchmark/) (20).
 
 * Put training set into `./Trainset/`, and put test set into `./Testset/`.
+
+## Result (DIBCO 2019-009)
+<p align="center">
+  <img src="readme_fig/fig_result.jpg" width="1024" title="network">
+</p>
 
 ## Environment
 * NVIDIA GPU + CUDA CuDNN
