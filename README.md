@@ -10,7 +10,7 @@
 If you find our paper useful in your research, please consider citing:
 ```
   @article{ju2024efficient,
-    title={Efficient GANs for Document Image Binarization Based on DWT and Normalization},
+    title={MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction},
     author={Ju, Rui-Yang and Wong, KokSheik and Chiang, Jen-Shiun},
     journal={arXiv preprint arXiv:2407.04231},
     year={2024}
