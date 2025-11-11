@@ -1,6 +1,6 @@
 # Efficient document image binarization
-
-> [Efficient GANs for Document Image Binarization Based on DWT and Normalization](https://arxiv.org/abs/2407.04231)
+> [arXiv](https://arxiv.org/abs/2407.04231)
+> [Project](https://ruiyangju.github.io/MFE-GAN/)
 
 <p align="center">
   <img src="readme_fig/fig_intro.jpg" width="1024" title="intro">
