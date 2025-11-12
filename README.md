@@ -52,9 +52,9 @@ You can download the dataset used in this experiment from [OneDrive](https://1dr
   ```
     conda env create -f environment.yaml
   ```
-
-## UNet & EfficientNetV2-S
-### Train
+  
+## Train
+### UNet & EfficientNetV2-S
 ```
   cd unet_effnetv2
   python image_to_256.py
@@ -64,13 +64,7 @@ You can download the dataset used in this experiment from [OneDrive](https://1dr
   python train_stage3_unet.py --epochs 10 --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
   python train_stage3_unet_resize.py --epochs 150 --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 16
 ```
-### Test
-```
-  python eval_stage3_all_unet.py --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
-```
-
-## UNet++ & EfficientNetV2-S
-### Train
+### UNet++ & EfficientNetV2-S
 ```
   cd unetplusplus_effnetv2
   python image_to_256.py
@@ -81,7 +75,12 @@ You can download the dataset used in this experiment from [OneDrive](https://1dr
   python train_stage3_resize.py --epochs 150 --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 16
 ```
 
-### Test
+## Test
+### UNet & EfficientNetV2-S
+```
+  python eval_stage3_all_unet.py --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
+```
+### UNet++ & EfficientNetV2-S
 ```
   python eval_stage3_all.py --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
 ```
