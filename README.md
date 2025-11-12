@@ -38,7 +38,7 @@ If you find our paper useful in your research, please consider citing:
 * Two-Fold Cross Validation: **I.** trainig set (15), test set (20); **II.** trainig set (20), test set (15).
 
 ### CMATERdb
-* Five-Fold Cross Validation: 4 & 1
+* Five-Fold Cross Validation: trainig set (4), test set (1).
 
 ## Result (DIBCO 2019-009)
 <p align="center">
