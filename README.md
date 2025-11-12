@@ -89,3 +89,9 @@ You can download the dataset used in this experiment from [OneDrive](https://1dr
 ```
   python eval_stage3_all.py --lambda_loss 25 --base_model_name tu-efficientnetv2_rw_s --batch_size 64
 ```
+
+## Related Works
+
+<details><summary> <b>Expand</b> </summary>
+
+* [Three-stage binarization of color document images based on discrete wavelet transform and generative adversarial networks](https://github.com/abcpp12383/ThreeStageBinarization)
