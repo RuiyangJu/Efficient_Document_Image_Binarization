@@ -1,4 +1,5 @@
 # MFE-GAN
+MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction
 > [arXiv](https://arxiv.org/abs/2407.04231)
 > [Project](https://ruiyangju.github.io/MFE-GAN/)
 
