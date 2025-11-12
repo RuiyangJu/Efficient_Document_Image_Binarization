@@ -24,6 +24,7 @@ If you find our paper useful in your research, please consider citing:
 </p>
 
 ## Datasets
+### Benchmark
 * Our training set (143) includes:
 
   [DIBCO 2009](http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/) (10), [H-DIBCO 2010](http://users.iit.demokritos.gr/~bgat/H-DIBCO2010/benchmark/) (10), [H-DIBCO 2012](http://utopia.duth.gr/~ipratika/HDIBCO2012/benchmark/) (14), [Bickley Diary](https://github.com/vqnhat/DSN-Binarization/files/2793688/original_gt_labeled.zip) (7), [PHIBD](http://www.iapr-tc11.org/mediawiki/index.php/Persian_Heritage_Image_Binarization_Dataset_(PHIBD_2012)) (15), [SMADI](https://tc11.cvc.uab.es/datasets/SMADI_1) (87).
