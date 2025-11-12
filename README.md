@@ -49,9 +49,9 @@ You can download the dataset used in this experiment from [OneDrive](https://1dr
 ## Environment
 * NVIDIA GPU + CUDA CuDNN
 * Creat a new Conda environment:
-  ```
-    conda env create -f environment.yaml
-  ```
+```
+  conda env create -f environment.yaml
+```
   
 ## Train
 ### UNet & EfficientNetV2-S
