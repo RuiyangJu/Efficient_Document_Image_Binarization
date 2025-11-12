@@ -1,4 +1,4 @@
-# Efficient document image binarization
+# MFE-GAN
 > [arXiv](https://arxiv.org/abs/2407.04231)
 > [Project](https://ruiyangju.github.io/MFE-GAN/)
 
