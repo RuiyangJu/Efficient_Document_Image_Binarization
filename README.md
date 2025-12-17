@@ -9,6 +9,7 @@ MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binari
 
 ## Citation
 If you find our paper useful in your research, please consider citing:
+* Conference Paper (APSIPA ASC 2025):
 ```
   @inproceedings{ju2025efficient,
     title={Efficient Generative Adversarial Networks for Color Document Image Enhancement and Binarization Using Multi-Scale Feature Extraction},
@@ -19,7 +20,16 @@ If you find our paper useful in your research, please consider citing:
     organization={IEEE}
   }
 ```
-    
+* Journal Paper (Under Review):
+```
+  @article{ju2025mfegan,
+    title={MFE-GAN: Efficient GAN-based Framework for Document Image Enhancement and Binarization with Multi-scale Feature Extraction},
+    author={Ju, Rui-Yang and Wong, KokSheik and Jin, Yanlin and Chiang, Jen-Shiun},
+    journal={arXiv preprint arXiv:2512.14114},
+    year={2025}
+  }
+```
+ 
 ## Method
 <p align="center">
   <img src="readme_fig/fig_network.jpg" width="1024" title="network">
